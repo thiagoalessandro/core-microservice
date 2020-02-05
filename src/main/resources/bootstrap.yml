@@ -1,4 +1,0 @@
-management:
-  health:
-    consul:
-      enabled: false
