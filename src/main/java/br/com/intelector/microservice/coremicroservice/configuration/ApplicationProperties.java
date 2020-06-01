@@ -14,7 +14,7 @@ public class ApplicationProperties {
     @Value("${app.security.enable:false}")
     private boolean appSecurityEnable;
 
-    @Value("${app.kafka.address}")
-    private String appKafkaAdress;
+    /*@Value("${app.kafka.address}")
+    private String appKafkaAdress;*/
 
 }
